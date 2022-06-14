@@ -1,0 +1,74 @@
+CRITICAL - 2022-03-21 00:53:29 --> Undefined array key 0
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-21 00:53:47 --> Undefined array key 0
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-21 01:08:33 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:10:44 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:12:36 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:12:37 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:12:40 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:12:58 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:13:21 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:13:47 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:13:58 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-21 01:14:08 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

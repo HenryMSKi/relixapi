@@ -1,0 +1,39 @@
+ERROR - 2021-11-30 13:22:57 --> Duplicate entry 'joswwe@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:39:05 --> Duplicate entry '79461352' for key 'dniUsuario'
+ERROR - 2021-11-30 13:40:01 --> Duplicate entry '79461352' for key 'dniUsuario'
+CRITICAL - 2021-11-30 13:43:36 --> Attempt to assign property "idUsuario" on array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->create()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-11-30 13:43:57 --> Duplicate entry 'asssds@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:44:21 --> Duplicate entry '98465134' for key 'dniUsuario'
+CRITICAL - 2021-11-30 13:47:04 --> Attempt to assign property "id" on array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->create()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-11-30 13:47:22 --> Duplicate entry 'lel@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:47:38 --> Duplicate entry 'lel@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:47:45 --> Duplicate entry 'lel@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:48:00 --> Duplicate entry 'lel@gmail.com' for key 'correoUsuario'
+CRITICAL - 2021-11-30 13:48:18 --> Attempt to assign property "id" on array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->create()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-11-30 13:48:32 --> Duplicate entry 'por@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:48:38 --> Duplicate entry 'por@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:48:50 --> Duplicate entry 'por@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:49:05 --> Duplicate entry 'por@gmail.com' for key 'correoUsuario'
+CRITICAL - 2021-11-30 13:50:53 --> Attempt to assign property "id" on array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->create()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-11-30 13:51:05 --> Duplicate entry 'Mandi@gmail.com' for key 'correoUsuario'
+ERROR - 2021-11-30 13:51:17 --> Duplicate entry 'Mandi@gmail.com' for key 'correoUsuario'

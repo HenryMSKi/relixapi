@@ -1,0 +1,21 @@
+CRITICAL - 2022-04-26 09:49:47 --> Attempt to read property "CODIGO_ERP" on array
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(458): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 458)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->agregarDetalleficha()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 10:11:30 --> Attempt to read property "CODIGO_ERP" on array
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(460): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 460)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->agregarDetalleficha()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-26 10:11:32 --> Attempt to read property "CODIGO_ERP" on array
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(460): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 460)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->agregarDetalleficha()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

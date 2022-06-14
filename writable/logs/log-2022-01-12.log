@@ -1,0 +1,63 @@
+CRITICAL - 2022-01-12 15:45:51 --> Too few arguments to function App\Controllers\Auth::validarUsuarioToken(), 0 passed in C:\xampp\htdocs\relixapi\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-12 15:45:54 --> Too few arguments to function App\Controllers\Auth::validarUsuarioToken(), 0 passed in C:\xampp\htdocs\relixapi\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-12 15:48:19 --> Too few arguments to function App\Controllers\Auth::validarUsuarioToken(), 0 passed in C:\xampp\htdocs\relixapi\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-12 15:48:30 --> Too few arguments to function App\Controllers\Auth::validarUsuarioToken(), 0 passed in C:\xampp\htdocs\relixapi\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-12 15:48:55 --> Too few arguments to function App\Controllers\Auth::validarUsuarioToken(), 0 passed in C:\xampp\htdocs\relixapi\system\CodeIgniter.php on line 824 and exactly 1 expected
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-12 16:03:02 --> Array to string conversion
+#0 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(78): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 78)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-12 16:03:25 --> Undefined array key 1
+#0 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-12 16:04:15 --> Undefined array key 1
+#0 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 77)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-12 16:08:00 --> Object of class stdClass could not be converted to string
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-12 16:08:02 --> Object of class stdClass could not be converted to string
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->validarUsuarioToken()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

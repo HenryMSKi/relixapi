@@ -1,0 +1,122 @@
+CRITICAL - 2022-01-10 09:41:23 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array, true)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:41:47 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array, true)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:43:09 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:43:11 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:43:43 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:43:44 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:44:00 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:49:48 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array, true)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:50:09 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array, true)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:50:48 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array, true)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:50:50 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array, true)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:50:51 --> json_decode(): Argument #1 ($json) must be of type string, array given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(28): json_decode(Array, true)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:51:35 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-10 09:51:36 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-10 09:53:57 --> Attempt to read property "pruebaHash" on array
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 09:53:58 --> Attempt to read property "pruebaHash" on array
+#0 C:\xampp\htdocs\relixapi\app\Controllers\ProductoController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ProductoController->busquedamasivaProductos()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductoController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-10 15:30:37 --> Cannot use [] for reading
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-10 15:34:09 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

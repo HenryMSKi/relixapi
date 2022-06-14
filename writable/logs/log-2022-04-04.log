@@ -1,0 +1,463 @@
+CRITICAL - 2022-04-04 19:38:30 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(10): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:38:32 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(10): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:40:02 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:40:32 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:40:35 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:41:11 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:41:25 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:41:56 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:42:52 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:44:44 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:44:45 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:44:46 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:45:41 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:45:43 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:45:44 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:47:36 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:47:38 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 15)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(15): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:48:19 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:48:41 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:48:42 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:55:28 --> require(C:\xampp\htdocs\relixapi\public\vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(C:\\xamp...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:57:02 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:57:03 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 19:57:04 --> require(vendor/autoload.php): Failed to open stream: No such file or directory
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require(vendor/...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(5): require()
+#2 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(264): include_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#5 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-04-04 20:00:35 --> fopen(descargas/hola.xlsx): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(descargas...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\BaseWriter.php(123): fopen('descargas/hola....', 'wb+')
+#2 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php(518): PhpOffice\PhpSpreadsheet\Writer\BaseWriter->openFileHandle('descargas/hola....')
+#3 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('descargas/hola....')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-04 20:00:37 --> fopen(descargas/hola.xlsx): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(descargas...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\BaseWriter.php(123): fopen('descargas/hola....', 'wb+')
+#2 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php(518): PhpOffice\PhpSpreadsheet\Writer\BaseWriter->openFileHandle('descargas/hola....')
+#3 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('descargas/hola....')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-04 20:00:38 --> fopen(descargas/hola.xlsx): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'fopen(descargas...', 'C:\\xampp\\htdocs...', 123)
+#1 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\BaseWriter.php(123): fopen('descargas/hola....', 'wb+')
+#2 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php(518): PhpOffice\PhpSpreadsheet\Writer\BaseWriter->openFileHandle('descargas/hola....')
+#3 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(42): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('descargas/hola....')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-04 20:11:22 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:11:23 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:11:24 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:11:31 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:11:32 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:11:37 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:11:44 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:12:01 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:13:45 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:13:46 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:14:55 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 20:18:37 --> filesize(): stat failed for holaexcelprueba.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 48)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(48): filesize('holaexcelprueba...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-04 21:32:52 --> File images/relixlogo.png not found!
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(44): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('images/relixlog...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-04 21:33:42 --> File images/relixlogo.png not found!
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(44): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('images/relixlog...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-04 21:34:45 --> File images/relixlogo.png not found!
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(44): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('images/relixlog...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-04 21:34:47 --> File images/relixlogo.png not found!
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(44): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('images/relixlog...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-04 21:37:25 --> File images/relixlogo.jpg not found!
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(44): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('images/relixlog...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-04 21:37:26 --> File images/relixlogo.jpg not found!
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(44): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('images/relixlog...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-04 21:37:27 --> File images/relixlogo.jpg not found!
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(44): PhpOffice\PhpSpreadsheet\Worksheet\Drawing->setPath('images/relixlog...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

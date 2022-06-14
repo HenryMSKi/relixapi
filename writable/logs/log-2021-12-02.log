@@ -1,0 +1,25 @@
+ERROR - 2021-12-02 10:32:33 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:32:39 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:35:25 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:35:39 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:36:11 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:38:48 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:39:22 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:40:17 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 10:41:09 --> Email: sendWithSmtp throwed fsockopen(): php_network_getaddresses: getaddrinfo failed: Host desconocido. 
+ERROR - 2021-12-02 14:41:42 --> Duplicate entry 'Hiro@gmail.com' for key 'correoUsuario'
+CRITICAL - 2021-12-02 14:48:21 --> Unsupported operand types: string + string
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(28): App\Controllers\API\UsuarioController->sendEmail(Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->create()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-02 14:49:05 --> Duplicate entry 'Hiro@gmail.com' for key 'correoUsuario'
+CRITICAL - 2021-12-02 14:54:05 --> Unsupported operand types: string + string
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(28): App\Controllers\API\UsuarioController->sendEmail(Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->create()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

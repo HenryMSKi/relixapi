@@ -1,0 +1,52 @@
+CRITICAL - 2021-12-17 08:18:46 --> Class "Config\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/roles', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 08:18:49 --> Class "Config\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/roles', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 08:18:59 --> Class "Config\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 08:21:53 --> Class "Config\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 08:21:55 --> Class "Config\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 09:03:05 --> Class "App\Filters\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 09:03:06 --> Class "App\Filters\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 09:03:07 --> Class "App\Filters\AuthFilter" not found
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2021-12-17 22:16:22 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapitoken\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapitoken\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-17 22:16:38 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapitoken\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapitoken\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-17 22:16:59 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapitoken\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapitoken\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}

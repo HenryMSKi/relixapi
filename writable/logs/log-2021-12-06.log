@@ -1,0 +1,73 @@
+CRITICAL - 2021-12-06 10:44:26 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-06 10:44:56 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-06 10:45:23 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-06 10:45:59 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-06 10:46:43 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-06 10:47:03 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-06 10:47:08 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-06 10:47:18 --> CodeIgniter\Model::insert(): Argument #2 ($returnID) must be of type bool, array given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 49
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert('1', Array)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->update('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-06 16:17:52 --> Duplicate entry 'Jose@gmail.com' for key 'correoUsuario'
+ERROR - 2021-12-06 21:22:06 --> Unknown column 'tblRolUsuario' in 'where clause'
+CRITICAL - 2021-12-06 21:22:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(142): App\Models\UsuarioModel->obtenerUsuariosporRol('1')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->obtenerUsuariosporRol('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-06 21:22:21 --> Unknown column 'tblRolUsuario' in 'where clause'
+CRITICAL - 2021-12-06 21:22:21 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(142): App\Models\UsuarioModel->obtenerUsuariosporRol('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->obtenerUsuariosporRol('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

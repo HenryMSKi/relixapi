@@ -1,0 +1,40 @@
+ERROR - 2022-02-26 16:06:07 --> Column 'idDivision' in field list is ambiguous
+CRITICAL - 2022-02-26 16:06:07 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(14): App\Models\FichatecnicaModel->obtenerFichas()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\FichatecnicaController->listarFichatecnica()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\FichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-26 16:06:21 --> Column 'idDivision' in field list is ambiguous
+CRITICAL - 2022-02-26 16:06:21 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(14): App\Models\FichatecnicaModel->obtenerFichas()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\FichatecnicaController->listarFichatecnica()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\FichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-26 16:12:10 --> Not unique table/alias: 'tblProvincia'
+CRITICAL - 2022-02-26 16:12:10 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(14): App\Models\FichatecnicaModel->obtenerFichas()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\FichatecnicaController->listarFichatecnica()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\FichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-26 16:12:27 --> Not unique table/alias: 'tblProvincia'
+CRITICAL - 2022-02-26 16:12:27 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(14): App\Models\FichatecnicaModel->obtenerFichas()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\FichatecnicaController->listarFichatecnica()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\FichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-26 16:16:49 --> Unknown column 'tblRetencions.idRetencion' in 'on clause'
+CRITICAL - 2022-02-26 16:16:49 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\FichatecnicaController.php(14): App\Models\FichatecnicaModel->obtenerFichas()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\FichatecnicaController->listarFichatecnica()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\FichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

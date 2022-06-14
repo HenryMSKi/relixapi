@@ -1,0 +1,66 @@
+ERROR - 2022-02-20 17:31:53 --> Table 'u992803740_relixsylbd.tblModalidadejecucion' doesn't exist
+CRITICAL - 2022-02-20 17:31:53 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\ModalidadejecucionController.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ModalidadejecucionController->listarModalidadejecucion()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ModalidadejecucionController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-02-20 17:31:56 --> Table 'u992803740_relixsylbd.tblModalidadejecucion' doesn't exist
+CRITICAL - 2022-02-20 17:31:56 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\ModalidadejecucionController.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\ModalidadejecucionController->listarModalidadejecucion()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ModalidadejecucionController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-20 18:41:03 --> Undefined variable $route
+#0 C:\xampp\htdocs\relixapi\app\Config\Routes.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 59)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(705): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-20 21:36:07 --> Column 'idEstadousuario' in order clause is ambiguous
+CRITICAL - 2022-02-20 21:36:07 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(18): App\Models\UsuarioModel->obtenerUsuarios()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->listarUsuario()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-20 21:38:52 --> Column 'idEstadousuario' in order clause is ambiguous
+CRITICAL - 2022-02-20 21:38:52 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(18): App\Models\UsuarioModel->obtenerUsuarios()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->listarUsuario()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-20 22:18:20 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->cambioEstado('1')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-20 22:20:22 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->cambioEstado('1')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-20 22:24:17 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->cambioEstado('1')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-20 22:25:00 --> CodeIgniter\RESTful\ResourceController::respond(): Argument #2 ($status) must be of type ?int, string given, called in C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php on line 76
+#0 C:\xampp\htdocs\relixapi\app\Controllers\API\UsuarioController.php(76): CodeIgniter\RESTful\ResourceController->respond('Actualizado exi...', 'Actualizado exi...')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->cambioEstado('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

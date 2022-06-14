@@ -1,0 +1,68 @@
+CRITICAL - 2021-12-07 22:37:55 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:38:17 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:38:49 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:38:51 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:39:04 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:02 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:03 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:04 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:06 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:27 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:28 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:29 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:29 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:31 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:49 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:40:51 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2021-12-07 22:41:23 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\relixapi\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\relixapi\public\index.php(28): require('C:\\xampp\\htdocs...')
+#2 {main}

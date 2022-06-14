@@ -1,0 +1,4 @@
+ERROR - 2021-12-22 16:20:02 --> Duplicate entry 'luis@gmail.com' for key 'correoUsuario'
+ERROR - 2021-12-22 16:20:04 --> Duplicate entry 'luis@gmail.com' for key 'correoUsuario'
+ERROR - 2021-12-22 16:21:12 --> Duplicate entry 'luis@gmail.com' for key 'correoUsuario'
+ERROR - 2021-12-22 16:21:14 --> Duplicate entry 'luis@gmail.com' for key 'correoUsuario'

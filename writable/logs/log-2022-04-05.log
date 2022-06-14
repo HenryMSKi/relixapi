@@ -1,0 +1,99 @@
+CRITICAL - 2022-04-05 00:54:20 --> Undefined array key "numFichatecnica"
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 54)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-05 00:55:22 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 00:55:23 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 00:55:24 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-05 01:03:33 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-05 01:04:06 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-04-05 01:18:13 --> Invalid range: "H13:G13"
+#0 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php(430): PhpOffice\PhpSpreadsheet\Cell\Coordinate::validateRange('H13:G13', 8, 8, '13', '13')
+#1 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Cell\Coordinate.php(344): PhpOffice\PhpSpreadsheet\Cell\Coordinate::getReferencesForCellBlock('H13:G13')
+#2 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Worksheet\Worksheet.php(726): PhpOffice\PhpSpreadsheet\Cell\Coordinate::extractAllCellReferencesInRange('H13:G13')
+#3 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx\Worksheet.php(358): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->calculateColumnWidths()
+#4 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx\Worksheet.php(68): PhpOffice\PhpSpreadsheet\Writer\Xlsx\Worksheet->writeCols(Object(PhpOffice\PhpSpreadsheet\Shared\XMLWriter), Object(PhpOffice\PhpSpreadsheet\Worksheet\Worksheet))
+#5 C:\xampp\htdocs\relixapi\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Writer\Xlsx.php(379): PhpOffice\PhpSpreadsheet\Writer\Xlsx\Worksheet->writeWorksheet(Object(PhpOffice\PhpSpreadsheet\Worksheet\Worksheet), Array, false)
+#6 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(215): PhpOffice\PhpSpreadsheet\Writer\Xlsx->save('holaexcelprueba...')
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelPrueba()
+#8 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#9 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-05 10:12:34 --> filesize(): stat failed for Reporte Dos.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 332)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(332): filesize('Reporte Dos.xls...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelReporteDos('6')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-05 10:12:37 --> filesize(): stat failed for Reporte Dos.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 332)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(332): filesize('Reporte Dos.xls...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelReporteDos('6')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-05 10:12:43 --> filesize(): stat failed for Reporte Dos.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 332)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(332): filesize('Reporte Dos.xls...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelReporteDos('6')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-05 10:12:45 --> filesize(): stat failed for Reporte Dos.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 332)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(332): filesize('Reporte Dos.xls...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelReporteDos('6')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-05 10:12:51 --> filesize(): stat failed for Reporte Dos.xlsx
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filesize(): sta...', 'C:\\xampp\\htdocs...', 332)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(332): filesize('Reporte Dos.xls...')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->exportarExcelReporteDos('6')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

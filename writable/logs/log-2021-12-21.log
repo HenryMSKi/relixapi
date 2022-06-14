@@ -1,0 +1,236 @@
+CRITICAL - 2021-12-21 13:45:50 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-21 13:46:08 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-21 13:46:19 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-21 13:46:50 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-12-21 14:01:29 --> Duplicate entry 'acv@gmail.com' for key 'correoUsuario'
+CRITICAL - 2021-12-21 14:04:28 --> App\Models\ReglasPersonalizadas\MisReglas::existeRol(): Argument #1 ($id) must be of type int, null given, called in C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php on line 277
+#0 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(277): App\Models\ReglasPersonalizadas\MisReglas->existeRol(NULL, NULL)
+#1 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('idRol', 'idRol', NULL, Array, Array)
+#2 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\xampp\htdocs\relixapitoken\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#7 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#8 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-21 14:04:31 --> App\Models\ReglasPersonalizadas\MisReglas::existeRol(): Argument #1 ($id) must be of type int, null given, called in C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php on line 277
+#0 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(277): App\Models\ReglasPersonalizadas\MisReglas->existeRol(NULL, NULL)
+#1 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('idRol', 'idRol', NULL, Array, Array)
+#2 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\xampp\htdocs\relixapitoken\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#7 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#8 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-21 14:05:02 --> App\Models\ReglasPersonalizadas\MisReglas::existeRol(): Argument #1 ($id) must be of type int, null given, called in C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php on line 277
+#0 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(277): App\Models\ReglasPersonalizadas\MisReglas->existeRol(NULL, NULL)
+#1 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('idRol', 'idRol', NULL, Array, Array)
+#2 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\xampp\htdocs\relixapitoken\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#7 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#8 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-21 14:07:01 --> App\Models\ReglasPersonalizadas\MisReglas::existeRol(): Argument #1 ($id) must be of type int, null given, called in C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php on line 277
+#0 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(277): App\Models\ReglasPersonalizadas\MisReglas->existeRol(NULL, NULL)
+#1 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('idRol', 'idRol', NULL, Array, Array)
+#2 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\xampp\htdocs\relixapitoken\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#7 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#8 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-21 14:07:41 --> App\Models\ReglasPersonalizadas\MisReglas::existeRol(): Argument #1 ($id) must be of type int, null given, called in C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php on line 277
+#0 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(277): App\Models\ReglasPersonalizadas\MisReglas->existeRol(NULL, NULL)
+#1 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('idRol', 'idRol', NULL, Array, Array)
+#2 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\xampp\htdocs\relixapitoken\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#7 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#8 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-21 14:07:42 --> App\Models\ReglasPersonalizadas\MisReglas::existeRol(): Argument #1 ($id) must be of type int, null given, called in C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php on line 277
+#0 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(277): App\Models\ReglasPersonalizadas\MisReglas->existeRol(NULL, NULL)
+#1 C:\xampp\htdocs\relixapitoken\system\Validation\Validation.php(151): CodeIgniter\Validation\Validation->processRules('idRol', 'idRol', NULL, Array, Array)
+#2 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(1347): CodeIgniter\Validation\Validation->run(Array, NULL, NULL)
+#3 C:\xampp\htdocs\relixapitoken\system\BaseModel.php(707): CodeIgniter\BaseModel->validate(Array)
+#4 C:\xampp\htdocs\relixapitoken\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#5 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(49): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#7 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#8 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-12-21 15:23:50 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:23:56 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:26:32 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:26:34 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:27:17 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:27:18 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:27:44 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:27:45 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:27:55 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:30:14 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\relixapitoken\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapitoken\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-21 15:30:15 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\relixapitoken\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapitoken\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-21 15:30:19 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\relixapitoken\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapitoken\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-21 15:30:38 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass), true)
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:30:39 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass), true)
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:31:10 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(34): json_decode(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-21 15:37:31 --> Duplicate entry 'pvc@gmail.com' for key 'correoUsuario'
+ERROR - 2021-12-21 15:37:37 --> Duplicate entry 'pvc@gmail.com' for key 'correoUsuario'
+CRITICAL - 2021-12-21 15:38:06 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(44): App\Controllers\API\UsuarioController->sendEmail(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 15:42:27 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\app\Controllers\API\UsuarioController.php(44): App\Controllers\API\UsuarioController->sendEmail(Object(stdClass))
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\API\UsuarioController->agregarUsuario()
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\UsuarioController))
+#3 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-21 16:08:04 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-12-21 16:08:06 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#1 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapitoken\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapitoken\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

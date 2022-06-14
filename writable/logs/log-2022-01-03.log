@@ -1,0 +1,68 @@
+CRITICAL - 2022-01-03 15:33:41 --> CodeIgniter\Cookie\Cookie::__construct(): Argument #1 ($name) must be of type string, array given, called in C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php on line 581
+#0 C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php(581): CodeIgniter\Cookie\Cookie->__construct(Array, '', Array)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(49): CodeIgniter\HTTP\Response->setCookie(Array)
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-03 15:35:57 --> CodeIgniter\Cookie\Cookie::__construct(): Argument #1 ($name) must be of type string, array given, called in C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php on line 581
+#0 C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php(581): CodeIgniter\Cookie\Cookie->__construct(Array, '', Array)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(51): CodeIgniter\HTTP\Response->setCookie(Array)
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-03 15:35:59 --> CodeIgniter\Cookie\Cookie::__construct(): Argument #1 ($name) must be of type string, array given, called in C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php on line 581
+#0 C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php(581): CodeIgniter\Cookie\Cookie->__construct(Array, '', Array)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(51): CodeIgniter\HTTP\Response->setCookie(Array)
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-03 15:38:19 --> CodeIgniter\Cookie\Cookie::__construct(): Argument #1 ($name) must be of type string, array given, called in C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php on line 581
+#0 C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php(581): CodeIgniter\Cookie\Cookie->__construct(Array, '', Array)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(51): CodeIgniter\HTTP\Response->setCookie(Array)
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-03 15:56:08 --> Using the "__Secure-" prefix requires setting the "Secure" attribute.
+#0 C:\xampp\htdocs\relixapi\system\Cookie\Cookie.php(750): CodeIgniter\Cookie\Exceptions\CookieException::forInvalidSecurePrefix()
+#1 C:\xampp\htdocs\relixapi\system\Cookie\Cookie.php(226): CodeIgniter\Cookie\Cookie->validatePrefix('__Secure-', false, '/', '')
+#2 C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php(581): CodeIgniter\Cookie\Cookie->__construct('username', 'online_web_tuto...', Array)
+#3 C:\xampp\htdocs\relixapi\system\Helpers\cookie_helper.php(50): CodeIgniter\HTTP\Response->setCookie('username', 'online_web_tuto...', 1641250568, '', '/', '__Secure-', false, false, NULL)
+#4 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(21): set_cookie('username', 'online_web_tuto...', '3600', '', '/', '__Secure-')
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->cook()
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-03 15:58:17 --> Using the "__Secure-" prefix requires setting the "Secure" attribute.
+#0 C:\xampp\htdocs\relixapi\system\Cookie\Cookie.php(750): CodeIgniter\Cookie\Exceptions\CookieException::forInvalidSecurePrefix()
+#1 C:\xampp\htdocs\relixapi\system\Cookie\Cookie.php(226): CodeIgniter\Cookie\Cookie->validatePrefix('__Secure-', false, '/', 'http://localhos...')
+#2 C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php(581): CodeIgniter\Cookie\Cookie->__construct('username', 'online_web_tuto...', Array)
+#3 C:\xampp\htdocs\relixapi\system\Helpers\cookie_helper.php(50): CodeIgniter\HTTP\Response->setCookie('username', 'online_web_tuto...', 1641250697, 'http://localhos...', '/', '__Secure-', false, false, NULL)
+#4 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(21): set_cookie('username', 'online_web_tuto...', '3600', 'http://localhos...', '/', '__Secure-')
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->cook()
+#6 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#7 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-03 16:06:21 --> Call to undefined method CodeIgniter\HTTP\Response::set_cookie()
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-03 16:12:51 --> CodeIgniter\Cookie\Cookie::__construct(): Argument #1 ($name) must be of type string, array given, called in C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php on line 581
+#0 C:\xampp\htdocs\relixapi\system\HTTP\ResponseTrait.php(581): CodeIgniter\Cookie\Cookie->__construct(Array, '', Array)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\Auth.php(66): CodeIgniter\HTTP\Response->setCookie(Array)
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\Auth->credentialsValidate()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Auth))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

@@ -1,0 +1,399 @@
+ERROR - 2022-03-20 20:29:55 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:29:55 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(17): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:32:06 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:32:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(17): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:32:15 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:32:15 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(17): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:32:23 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:32:23 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(17): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:32:25 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:32:25 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(17): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:33:04 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:33:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:33:06 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:33:06 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:33:36 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:33:36 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:36:20 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:36:20 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:36:33 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:36:33 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->find()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:37:14 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:37:14 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:37:16 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:37:16 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:37:55 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:37:55 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(20): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:39:01 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:39:01 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:39:03 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:39:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:39:11 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:39:11 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:39:13 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:39:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:39:23 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:39:23 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:41:23 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:41:23 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:41:25 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:41:25 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:41:26 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:41:26 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:41:35 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:41:35 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:42:33 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:42:33 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:47:02 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:47:02 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:47:27 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:47:27 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:50:00 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:50:00 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:50:43 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:50:43 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:51:53 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:51:53 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 20:57:29 --> Unknown column 'tblDetallefichatecnica.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 20:57:29 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(24): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-20 21:14:44 --> Attempt to read property "codigosoftcomProducto" on array
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 28)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 21:48:21 --> Object of class App\Models\PrecioproductoModel could not be converted to string
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-20 21:48:45 --> Object of class App\Models\PrecioproductoModel could not be converted to string
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-20 21:49:28 --> Object of class App\Models\PrecioproductoModel could not be converted to string
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-20 21:50:29 --> Object of class App\Models\PrecioproductoModel could not be converted to string
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-20 21:51:24 --> Object of class App\Models\PrecioproductoModel could not be converted to string
+#0 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-03-20 22:10:42 --> Unknown column 'tblPrecioproducto.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 22:10:42 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(31): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 22:12:59 --> Unknown column 'tblPrecioproducto.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 22:12:59 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\PrecioproductoController.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\PrecioproductoController->listarPrecioproducto()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrecioproductoController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 22:13:21 --> Unknown column 'tblPrecioproducto.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 22:13:21 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\PrecioproductoController.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\PrecioproductoController->listarPrecioproducto()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrecioproductoController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 22:13:31 --> Unknown column 'tblPrecioproducto.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 22:13:31 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\PrecioproductoController.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\PrecioproductoController->listarPrecioproducto()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrecioproductoController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-03-20 22:15:22 --> Unknown column 'tblPrecioproducto.deleted_at' in 'where clause'
+CRITICAL - 2022-03-20 22:15:22 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\relixapi\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\relixapi\app\Controllers\PrecioproductoController.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\PrecioproductoController->listarPrecioproducto()
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PrecioproductoController))
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-03-20 22:26:31 --> Undefined property: App\Controllers\DetallefichatecnicaController::$precioProducto
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 22:26:35 --> Undefined property: App\Controllers\DetallefichatecnicaController::$precioProducto
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('1')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 22:26:38 --> Undefined property: App\Controllers\DetallefichatecnicaController::$precioProducto
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(27): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 27)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 23:16:19 --> Array to string conversion
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 29)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 23:17:34 --> Array to string conversion
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 36)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 23:17:47 --> Undefined array key "precioventatresProducto"
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 36)
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 23:57:30 --> array_unshift(): Argument #1 ($array) must be of type array, null given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(32): array_unshift(NULL, '21736.36')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-20 23:58:35 --> array_unshift(): Argument #1 ($array) must be of type array, null given
+#0 C:\xampp\htdocs\relixapi\app\Controllers\DetallefichatecnicaController.php(32): array_unshift(NULL, '21736.36')
+#1 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(824): App\Controllers\DetallefichatecnicaController->listarDetallefichatecnica('2')
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetallefichatecnicaController))
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,72 @@
+CRITICAL - 2021-12-16 19:13:59 --> explode(): Argument #1 ($separator) cannot be empty
+#0 C:\xampp\htdocs\relixapi\app\Helpers\jwt_helper.php(10): explode('', 'Bearer eyJ0eXAi...')
+#1 C:\xampp\htdocs\relixapi\app\Filters\AuthFilter.php(20): getJWTFromRequest('Bearer eyJ0eXAi...')
+#2 C:\xampp\htdocs\relixapi\system\Filters\Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-16 19:14:01 --> explode(): Argument #1 ($separator) cannot be empty
+#0 C:\xampp\htdocs\relixapi\app\Helpers\jwt_helper.php(10): explode('', 'Bearer eyJ0eXAi...')
+#1 C:\xampp\htdocs\relixapi\app\Filters\AuthFilter.php(20): getJWTFromRequest('Bearer eyJ0eXAi...')
+#2 C:\xampp\htdocs\relixapi\system\Filters\Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-16 19:19:29 --> explode(): Argument #1 ($separator) cannot be empty
+#0 C:\xampp\htdocs\relixapi\app\Helpers\jwt_helper.php(10): explode('', 'Bearer eyJ0eXAi...')
+#1 C:\xampp\htdocs\relixapi\app\Filters\AuthFilter.php(20): getJWTFromRequest('Bearer eyJ0eXAi...')
+#2 C:\xampp\htdocs\relixapi\system\Filters\Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-16 19:19:30 --> explode(): Argument #1 ($separator) cannot be empty
+#0 C:\xampp\htdocs\relixapi\app\Helpers\jwt_helper.php(10): explode('', 'Bearer eyJ0eXAi...')
+#1 C:\xampp\htdocs\relixapi\app\Filters\AuthFilter.php(20): getJWTFromRequest('Bearer eyJ0eXAi...')
+#2 C:\xampp\htdocs\relixapi\system\Filters\Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-16 19:19:31 --> explode(): Argument #1 ($separator) cannot be empty
+#0 C:\xampp\htdocs\relixapi\app\Helpers\jwt_helper.php(10): explode('', 'Bearer eyJ0eXAi...')
+#1 C:\xampp\htdocs\relixapi\app\Filters\AuthFilter.php(20): getJWTFromRequest('Bearer eyJ0eXAi...')
+#2 C:\xampp\htdocs\relixapi\system\Filters\Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios', 'before')
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-16 19:28:43 --> explode(): Argument #1 ($separator) cannot be empty
+#0 C:\xampp\htdocs\relixapi\app\Filters\AuthFilter.php(23): explode('', 'Bearer eyJ0eXAi...')
+#1 C:\xampp\htdocs\relixapi\system\Filters\Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios/ro...', 'before')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 19:28:51 --> explode(): Argument #1 ($separator) cannot be empty
+#0 C:\xampp\htdocs\relixapi\app\Filters\AuthFilter.php(23): explode('', 'Bearer eyJ0eXAi...')
+#1 C:\xampp\htdocs\relixapi\system\Filters\Filters.php(173): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#2 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(384): CodeIgniter\Filters\Filters->run('api/usuarios/ro...', 'before')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-12-16 19:47:05 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-12-16 19:47:07 --> syntax error, unexpected token "}", expecting ";"
+#0 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\relixapi\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\relixapi\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\relixapi\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
